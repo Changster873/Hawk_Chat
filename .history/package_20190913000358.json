@@ -1,0 +1,19 @@
+{
+  "name": "hawk_chat",
+  "version": "1.0.0",
+  "description": "This is an application where you will be able to use to communicate with other people about a common topic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Changster873/Hawk_Chat.git"
+  },
+  "author": "henryb679 & changster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Changster873/Hawk_Chat/issues"
+  },
+  "homepage": "https://github.com/Changster873/Hawk_Chat#readme"
+}
